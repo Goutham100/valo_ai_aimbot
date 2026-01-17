@@ -3,6 +3,7 @@ Description: this is an ai aimbot that utilizes the yolov11n model to predict th
 prerequisites:
 - an rtx gpu [preferably the latest for the best performance]
 - arduino leonardo
+
 How to use:
 - create a custom environment , preferably python 3.8.10 others work too I think
 - https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Windows <-- download cuda
